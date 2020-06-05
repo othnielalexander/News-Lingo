@@ -8,6 +8,7 @@ disciplines, e.g., psychology and social science, to facilitate and enhance the
 interdisciplinary research of fake news. Current fake news studies is reviewed,
 summarized and evaluated.
 These studies focus on fake news from four perspective:
+
 (1) the false knowledge it carries,
 (2) its writing style,
 (3) its propagation patterns, and
