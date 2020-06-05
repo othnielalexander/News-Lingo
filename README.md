@@ -25,4 +25,4 @@ Following are the objectives of the Web Application.
 • It helps users to verify the news whether its fake or not.
 • It helps them to understand the sources they must follow in order to refer to news from the right source.
 
-![alt text](FakeNewsDetection/templates/Frame_1.png)
+![alt text](templates/Frame_1.png)
